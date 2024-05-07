@@ -34,7 +34,7 @@ var cy = cytoscape({
       })
     .selector('#bird')
       .css({
-        'background-image': 'https://live.staticflickr.com/7272/7633179468_3e19e45a0c_b.jpg'
+        'background-image': 'https://github.com/Shef-AI/shef-ai.github.io/blob/main/images/people/1-pIes3g4K4nKMYnfMZ6cjOSUoBRlKgR_.jpg'//live.staticflickr.com/7272/7633179468_3e19e45a0c_b.jpg'
       })
     .selector('#cat')
       .css({
